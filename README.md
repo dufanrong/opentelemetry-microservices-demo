@@ -1,6 +1,6 @@
 镜像编译好上传在了  https://hub.docker.com/u/dufanrong
 ```
-git clone https://github.com/julianocosta89/opentelemetry-microservices-demo.git
+git clone https://github.com/dufanrong/opentelemetry-microservices-demo.git
 cd opentelemetry-microservices-demo
 ```
 ---
