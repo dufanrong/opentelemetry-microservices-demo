@@ -1,4 +1,8 @@
 镜像编译好上传在了  https://hub.docker.com/u/dufanrong
+```
+git clone https://github.com/julianocosta89/opentelemetry-microservices-demo.git
+cd opentelemetry-microservices-demo
+```
 ---
 
 **Online Boutique** is a cloud-native microservices demo application.
