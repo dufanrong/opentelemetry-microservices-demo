@@ -1,14 +1,4 @@
-## This demo is not being updated anymore, please check out the [official OpenTelemetry Demo](https://github.com/open-telemetry/opentelemetry-demo).
-
-<p align="center">
-<img src="src/frontend/static/icons/Hipster_HeroLogoCyan.svg" width="300" alt="Online Boutique" />
-</p>
-
----
-
-## This repo was modified and it is used to demonstrate OpenTelemetry capabilities
-All the services had their OpenCensus, Cloud Operations (Stackdriver) removed. Only OpenTelemetry Traces were added.   
-
+镜像编译好上传在了  https://hub.docker.com/u/dufanrong
 ---
 
 **Online Boutique** is a cloud-native microservices demo application.
