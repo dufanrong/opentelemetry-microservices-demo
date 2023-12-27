@@ -30,7 +30,7 @@ spec:
       serviceAccountName: default
       containers:
         - name: server
-          image: frontend
+          image: dufanrong/frontend:1.0.0
           ports:
           - containerPort: 8080
           readinessProbe:
